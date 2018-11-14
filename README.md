@@ -16,7 +16,7 @@
 |9|[JEP 290: Filter Incoming Serialization Data](http://openjdk.java.net/jeps/290)||||?|
 |9|[JEP 277: Enhanced Deprecation](http://openjdk.java.net/jeps/277)||||?|
 |9|[JEP 269: Convenience Factory Methods for Collections](http://openjdk.java.net/jeps/269)||||X|
-|9|[JEP 268: XML Catalogs](http://openjdk.java.net/jeps/268)|Examples: http://hg.openjdk.java.net/jdk9/dev/jaxp/rev/395cd2b14c1d|||X|
+|9|[JEP 268: XML Catalogs](http://openjdk.java.net/jeps/268)||||X|
 |9|[JEP 269: Convenience Factory Methods for Collections](http://openjdk.java.net/jeps/269)||||X|
 |9|[JEP 266: More Concurrency Updates](http://openjdk.java.net/jeps/266)||||X|
 |9|[JEP 264: Platform Logging API and Service](http://openjdk.java.net/jeps/264)||||X|
